@@ -1,7 +1,7 @@
 # CSharp Typescript
 
 string array
-```csharp
+```c#
 c# string[] varName = [];
-```Typescript
+```ts
 let breeds: string[] = [];
